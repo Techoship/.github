@@ -1,4 +1,7 @@
-![Profile views](https://gpvc.arturio.dev/techoship)  
+
+
+![Mobile app development company.](https://media-exp1.licdn.com/dms/image/C4D16AQFglXcpQBujVQ/profile-displaybackgroundimage-shrink_200_800/0/1645593774885?e=1651708800&v=beta&t=EqICPsgwRsJy9HYZSg2bCsK1JoapsslKljv3B1F31Ic)
+
 
 
 ### Hi there 👋, This is Techoship.  
@@ -8,7 +11,7 @@
 
 We build Android and IOS in native platforms. We wireframe the user ideas in Figma/Adobe XD. We provide fullstack services containig all front end, backend, cloud services, APIs and much more.
 
-![Mobile app development company.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 
 
@@ -185,3 +188,5 @@ We build Android and IOS in native platforms. We wireframe the user ideas in Fig
 
 
 
+
+![Profile views](https://gpvc.arturio.dev/techoship)  
