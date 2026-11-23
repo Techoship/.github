@@ -34,11 +34,12 @@ Techoship LLC is a founder-led product studio. We design, build and ship real pr
 
 | Project | What it does |
 |---|---|
-| [Shift Staffing Platform](https://techoship.com/work/shift-staffing-platform?utm_source=github&utm_medium=profile) | Hospitality staffing marketplace running on 28 scheduled jobs — vetting, shifts, timesheets, payouts. |
+| [Firnela](https://techoship.com/work/shift-staffing-platform?utm_source=github&utm_medium=profile) | Hospitality staffing marketplace running on 28 scheduled jobs — vetting, shifts, timesheets, payouts. |
 | [Drone Escort for Student Safety](https://techoship.com/work/drone-escort-student-safety?utm_source=github&utm_medium=profile) | A student presses one button and a drone flies out to meet them. |
 | [AI Interior Redesign](https://techoship.com/work/ai-interior-redesign-app?utm_source=github&utm_medium=profile) | Photograph a room, pick a style, get it back redesigned — walls and windows where they were. |
 | [AI Project Management](https://techoship.com/work/ai-project-management-voice-to-task?utm_source=github&utm_medium=profile) | Speak a sentence and it becomes a task with an owner and deadline, in Arabic or English. |
-| [Local Discovery Platform](https://techoship.com/work/local-discovery-platform?utm_source=github&utm_medium=profile) | Venue discovery app with a 69k-line console and a NestJS API. |
+| [Heyday City Guides](https://techoship.com/work/local-discovery-platform?utm_source=github&utm_medium=profile) | What's on tonight near you: Flutter app, a 69k-line console and a NestJS API. |
+| [Tended Health Pro](https://techoship.com/work/dementia-caregiving-app?utm_source=github&utm_medium=profile) | Dementia caregiving app: native Android, Google Play Billing from a web page, Emergency Mode. |
 | [Restaurant Platform](https://techoship.com/work/restaurant-platform-table-service?utm_source=github&utm_medium=profile) | Floor plans, table service and payouts — two apps in one. |
 
 [All case studies →](https://techoship.com/work?utm_source=github&utm_medium=profile)
@@ -47,7 +48,11 @@ Techoship LLC is a founder-led product studio. We design, build and ship real pr
 
 - **[Focusara](https://play.google.com/store/apps/details?id=com.techoship.focusara)** — focus and wellbeing app with an AI coach (Gemma 3) running fully on-device.
 - **[Zimmati](https://play.google.com/store/apps/details?id=com.techoship.zimmati)** — expense splitting with a ledger that cannot drift.
-- **[Random URL Reloader](https://techoship.com/random-url-reloader?utm_source=github&utm_medium=profile)** — Chrome extension that reloads pages on your own schedule.
+- **[Qorvyn Run](https://play.google.com/store/apps/details?id=com.techoship.qorvynrun)** — a 2D platformer built with Flutter and Flame.
+
+### 🔓 Open source
+
+- **[Random URL Reloader](https://github.com/Techoship/random-url-reloader)** — Manifest V3 Chrome extension that reloads pages on your own schedule, one session per tab. MIT.
 
 ### ⚙️ What we build with
 
