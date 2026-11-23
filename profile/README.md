@@ -52,6 +52,7 @@ Techoship LLC is a founder-led product studio. We design, build and ship real pr
 
 ### 🔓 Open source
 
+- **[Android WebView Bridge](https://github.com/Techoship/android-webview-bridge)** — makes web apps work inside an Android WebView: `window.print()`, blob/data/link downloads and Google Play Billing. Kotlin, MIT. Created by [@msulmangull](https://github.com/msulmangull).
 - **[Random URL Reloader](https://github.com/Techoship/random-url-reloader)** — Manifest V3 Chrome extension that reloads pages on your own schedule, one session per tab. MIT.
 
 ### ⚙️ What we build with
